@@ -1,0 +1,42 @@
+2020/10/17 20:34:37 [emerg] 15372#20876: unknown directive "server " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:118
+2020/10/17 20:36:10 [emerg] 17452#24520: unknown directive "server " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:118
+2020/10/17 20:36:46 [emerg] 24452#16432: unknown directive "server " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:118
+2020/10/17 20:37:22 [emerg] 2056#8836: unknown directive "        listen" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:119
+2020/10/17 20:38:40 [emerg] 3116#14100: unknown directive "        listen" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:119
+2020/10/17 20:39:26 [emerg] 3564#10564: unknown directive "    server " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:118
+2020/10/17 20:39:40 [emerg] 25400#25196: unknown directive "        listen" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:119
+2020/10/17 20:40:39 [emerg] 24020#20212: unknown directive "server_name " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:120
+2020/10/17 20:41:40 [emerg] 1748#7424: unknown directive "server_name " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:120
+2020/10/17 20:41:57 [emerg] 23796#24784: unknown directive "   # 需要中转的请求" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/17 20:42:10 [emerg] 9036#21832: unknown directive "   # 需要中转的请求" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/17 20:43:06 [emerg] 21956#2924: unknown directive "   # 需要中转的请求" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/17 20:43:20 [emerg] 21984#14212: unknown directive "   # 需要中转的请求" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/17 20:44:32 [emerg] 13392#4324: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/17 20:45:03 [emerg] 4348#25308: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:28:18 [emerg] 16860#22220: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:30:08 [emerg] 7892#21428: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:30:10 [emerg] 24464#27136: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:30:22 [emerg] 27132#26616: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:30:24 [emerg] 26980#24400: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:34:21 [emerg] 26164#27168: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:34:43 [emerg] 28476#28500: unknown directive " " in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:121
+2020/10/18 13:35:00 [emerg] 16928#18852: unknown directive "proxy_pass http://127.0.0.1:4000" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:122
+2020/10/18 13:35:32 [emerg] 19152#14520: invalid parameter "http://127.0.0.1:4000 http://127.0.0.1" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:123
+2020/10/18 13:35:44 [emerg] 3104#8740: invalid number of arguments in "add_header" directive in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:126
+2020/10/18 13:36:05 [emerg] 24512#17052: unexpected "}" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:130
+2020/10/18 13:36:38 [emerg] 6136#19236: unexpected "}" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:130
+2020/10/18 13:37:20 [emerg] 10924#27876: "server" directive is not allowed here in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:119
+2020/10/18 13:37:37 [emerg] 18244#27516: unexpected end of file, expecting ";" or "}" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:129
+2020/10/18 13:38:09 [emerg] 19524#2364: unexpected "}" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:130
+2020/10/18 13:45:34 [emerg] 9908#25720: unexpected "}" in D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/conf/nginx.conf:130
+2020/10/18 13:46:26 [notice] 27108#19056: signal process started
+2020/10/18 13:46:26 [error] 27108#19056: CreateFile() "D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/18 13:47:14 [notice] 27228#19152: signal process started
+2020/10/18 13:47:14 [error] 27228#19152: CreateFile() "D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/18 13:48:03 [notice] 22060#6200: signal process started
+2020/10/18 13:48:03 [error] 22060#6200: CreateFile() "D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/18 13:48:04 [notice] 26268#23256: signal process started
+2020/10/18 13:48:04 [error] 26268#23256: CreateFile() "D:\github\CORS\nginx-proxy\nginx\nginx-1.18.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2020/10/18 13:48:56 [notice] 26672#28452: signal process started
+2020/10/18 17:36:37 [alert] 13808#21756: worker process 18348 exited with code C0000142
+2020/10/18 17:36:37 [alert] 13808#21756: could not respawn worker

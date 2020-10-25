@@ -1,0 +1,8 @@
+<script>
+    var xhr = new XMLHttpRequest();
+    // 允许设置 cookie
+    xhr.withCredentials = true;
+    // 访问 nginx 的代理服务器
+    xhr.open('get', 'http://127.0.0.1/?user=admin', true);
+    xhr.send();
+</script>
